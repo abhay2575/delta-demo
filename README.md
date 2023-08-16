@@ -1,2 +1,2 @@
 # delta-demo
-It is dmeo of projects 
+It is dmeo of projects.
